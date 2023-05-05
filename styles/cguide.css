@@ -1,0 +1,76 @@
+.c-guideCatagoryContainer {
+  gap: 20px;
+}
+.c-categoryTxt {
+  font-family: "Gelasio";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 20px;
+  color: #fffdcf;
+  cursor: pointer;
+}
+.c-categoryTxt:hover {
+  opacity: 0.8;
+}
+.divideLine {
+  height: 17px;
+  width: 1px;
+  background: #9b8383;
+}
+.c-catagory-mainConainer {
+  display: flex;
+  /* justify-content: space-between; */
+  gap: 38px;
+}
+.c-category-bagdgeImg {
+  width: 152px;
+  height: 152px;
+}
+.c-guide-catagoryRightPart {
+}
+.c-guide-catagoryWhiteTitle {
+  font-family: "Hepta Slab";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  color: #ffffff;
+  margin-bottom: 14px;
+}
+.c-guide-catagoryContent {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #223030;
+  margin-bottom: 20px;
+  max-width: 703px;
+}
+.c-guide-questionBlockContainer {
+  display: flex;
+  gap: 37px;
+}
+.c-guide-questionBlock {
+  max-width: 220px;
+  padding: 0px 0px 0px 16px;
+  border-left: 2px solid #e0dbb1;
+}
+.c-guide-questionTitleTxt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 16px;
+  line-height: 18px;
+  color: #223030;
+  margin-bottom: 7px;
+}
+.c-guide-questionContentTxt {
+  font-family: "Roboto";
+  font-style: italic;
+  font-weight: 400;
+  font-size: 14px;
+  line-height: 18px;
+  color: #223030;
+}

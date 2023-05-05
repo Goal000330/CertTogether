@@ -1,0 +1,153 @@
+.c-study-root {
+  padding: 28px 108px 95px 95px;
+  background: white;
+  min-height: 500px;
+}
+.c-footer-root {
+  background: #e4e7e7;
+  width: 100%;
+  height: 112px;
+}
+.c-study-TitleTxt {
+  font-family: "Hepta Slab";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 24px;
+  line-height: 30px;
+  color: #404041;
+  margin-bottom: 14px;
+}
+.c-study-yellowPartContainer {
+  display: flex;
+  align-items: center;
+  gap: 11px;
+}
+.c-study-proTxt {
+  font-family: "Hepta Slab";
+  font-style: normal;
+  font-weight: 800;
+  font-size: 30px;
+  line-height: 38px;
+  color: #f4be14;
+}
+.c-study-firstBlackTxt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 30px;
+  line-height: 35px;
+  color: #404041;
+}
+.c-study-thirdBlackTxt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 35px;
+  color: #404041;
+}
+.c-study-mainContentPart {
+  position: relative;
+  padding: 19px 11px 40px 11px;
+  background: #fffef5;
+  box-shadow: 0px 0px 4px 2px rgba(0, 0, 0, 0.08);
+  border-radius: 5px;
+}
+.c-study-blockNumber {
+  position: absolute;
+  bottom: 125px;
+  right: 0px;
+  font-family: "Hepta Slab";
+  font-style: normal;
+  font-weight: 600;
+  font-size: 400px;
+  line-height: 28px;
+  color: #f8f7ee;
+}
+.c-study-icon {
+  /* width: 20px;
+  height: 20px; */
+}
+.c-study-firstBlueTxt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 23px;
+  line-height: 27px;
+  color: #20706e;
+}
+.c-study-ligtblueContainer {
+  display: flex;
+  align-items: center;
+  gap: 9px;
+  padding: 8px 7px;
+  border-top: 1px solid #fffef5;
+  border-bottom: 1px solid #fffef5;
+}
+.c-study-ligtblueContainer:hover {
+  background: white;
+  /* cursor: pointer; */
+  border-color: #f1f1f2;
+}
+.c-study-linkContainer {
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  /* margin-bottom: 18px; */
+}
+.c-study-padding1 {
+  padding-left: 172px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  /* margin-bottom: 18px; */
+}
+.c-study-padding2 {
+  padding-left: 212px;
+  display: flex;
+  align-items: center;
+  gap: 15px;
+  /* margin-bottom: 12px; */
+}
+.c-study-dotLine {
+  /* max-width: 644px; */
+  width: 100%;
+  margin-bottom: 12px;
+  margin-top: 12px;
+}
+.c-study-secondBlackTxt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 400;
+  font-size: 23px;
+  line-height: 28px;
+  color: #404041;
+}
+.c-study-secondBlueTxt {
+  font-family: "Roboto";
+  font-style: normal;
+  font-weight: 500;
+  font-size: 18px;
+  line-height: 27px;
+  color: #20706e;
+}
+.c-study-symbolContainer {
+  display: flex;
+  align-items: center;
+  gap: 8px;
+  min-width: 156px;
+  visibility: hidden;
+}
+.c-study-symbolContainer:hover {
+  visibility: visible !important;
+  gap: 1px !important;
+  cursor: pointer;
+}
+.c-study-markNumTxt {
+  font-family: "Hepta Slab";
+  font-style: normal;
+  font-weight: 700;
+  font-size: 20px;
+  line-height: 18px;
+  color: #808184;
+}
