@@ -72,7 +72,7 @@ module.exports = {
     },
 
     screens: {
-      xs: { max: "766px" },
+      xs: { max: "639px" },
       sm: { min: "640px", max: "767px" },
       // => @media (min-width: 640px and max-width: 767px) { ... }
 

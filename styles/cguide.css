@@ -27,6 +27,36 @@
   width: 152px;
   height: 152px;
 }
+/* md */
+@media screen and (max-width: 1023px) {
+  .c-category-bagdgeImg {
+    width: 118px;
+    height: 122px;
+  }
+  .c-catagory-mainConainer {
+    gap: 27px;
+  }
+}
+/* sm */
+@media screen and (max-width: 767px) {
+  .c-catagory-mainConainer {
+    flex-direction: column;
+    gap: 17px;
+  }
+  .c-category-bagdgeImg {
+    margin: 0px auto;
+  }
+  .c-guide-catagoryWhiteTitle {
+    text-align: center;
+  }
+  .c-guide-catagoryContent {
+    text-align: center;
+  }
+}
+/* xs */
+@media screen and (max-width: 639px) {
+}
+
 .c-guide-catagoryRightPart {
 }
 .c-guide-catagoryWhiteTitle {
